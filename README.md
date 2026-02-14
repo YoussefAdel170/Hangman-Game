@@ -4,7 +4,7 @@ A fun and interactive Hangman game built with HTML, CSS, and JavaScript. In this
 
 ## Live Demo:
 
-https://yousifadel170.github.io/Hangman-Game/
+https://youssefadel170.github.io/Hangman-Game/
 
 ## Features
 
