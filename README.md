@@ -1,4 +1,4 @@
-# 🪢 Hangman Game
+# 🕹 Hangman Game
 
 A fun and interactive Hangman game built with **HTML, CSS, and JavaScript**.  
 Guess the hidden word by selecting letters. Each wrong guess draws a part of the hangman. The game ends when the word is guessed correctly or the hangman is fully drawn.
@@ -6,20 +6,6 @@ Guess the hidden word by selecting letters. Each wrong guess draws a part of the
 ## 🔗 Live Demo
 
 ## [Play Hangman Online](https://youssefadel170.github.io/Hangman-Game/)
-
-## 📸 Screenshots
-
-- **Game:**  
-  ![Game](./screenshots/game.jpg)
-
-- **Win:**  
-  ![Win](./screenshots/win.jpg)
-
-- **Lose:**  
-  ![Lose](./screenshots/lose.jpg)
-
-- **Mobile:**  
-  ![Mobile](./screenshots/mobile.png)
 
 ---
 
@@ -88,3 +74,19 @@ git clone git@github.com:YousifAdel170/Hangman-Game.git
 
 - **Add New Words:** Edit the words object in script.js.
 - **Adjust Difficulty:** Change the maxAttempts variable to allow more/less wrong guesses.
+
+---
+
+## 📸 Screenshots
+
+- **Game:**  
+  ![Game](./screenshots/game.jpg)
+
+- **Win:**  
+  ![Win](./screenshots/win.jpg)
+
+- **Lose:**  
+  ![Lose](./screenshots/lose.jpg)
+
+- **Mobile:**  
+  ![Mobile](./screenshots/mobile.png)
